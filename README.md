@@ -9,3 +9,4 @@ i have modified product controller from its default view
 
 at the moment app is configured to mysql(hosted on azure) but can be changed to any populat db
 
+# can be run on local machine by 'yarn develop'  after installing node modules
